@@ -6,3 +6,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #arm64v8 mysql
  mysql/latest
+#postgres
+postgres/latest
